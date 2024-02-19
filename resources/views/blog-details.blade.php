@@ -1,5 +1,6 @@
 <div class="header">
     @include('layouts.header')
+    
 </div>
 <div class="top-bg">
     <div class="container">
