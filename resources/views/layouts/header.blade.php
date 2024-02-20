@@ -74,17 +74,20 @@ function page_url()
                                 <a class="nav-link nav_headings" href="{{ url('/') }}">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav_headings" href="#">Features</a>
+                                <a class="nav-link nav_headings" href="#feature_section">Features</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link nav_headings" href="#">Screenshot</a>
+                                <a class="nav-link nav_headings" href="#screenshot">Screenshot</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link nav_headings" href="#">Price</a>
+                                <a class="nav-link nav_headings" href="#join_community">App</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link nav_headings" href="{{ url('/blog') }}">Blog</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link nav_headings" href="#contact">Contact</a>
                             </li>
 
                         </ul>
