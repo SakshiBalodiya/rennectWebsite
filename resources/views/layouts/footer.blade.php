@@ -45,15 +45,15 @@
 
                     </ul>
                 </div>
-                <div class="col-lg-6 text-end mb-5">
+                <div class="col-lg-6 alignment mb-5">
                     <img src="{{ asset('images\footer icons.png') }}">
                 </div>
             </div>
             <div class="row mt-5">
-                <div class="col-lg-6">
+                <div class="col-lg-6 copyright alignment_copyright">
                     <p>copyright © 2024 Rennect All Rights Reserved.</p>
                 </div>
-                <div class="col-lg-6 text-end">
+                <div class="col-lg-6 alignment">
                     <ul class="list-inline">
                         <li class="list-inline-item">Terms of Service</li>
                         <li class="list-inline-item">Privacy Policy</li>
